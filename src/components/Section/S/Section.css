@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: indigo;
+}
+.card-center{
+    text-align: center;
+}
+button{
+    margin-top: 30px;
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    border: none;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.left{
+    background-color: brown;
+}
+.right{
+    background-color: blue;
+}
+.center{
+    background-color: chartreuse;
+}
+p{
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-top: 20px;
+}
+h1{
+    color: #FFFFFF;
+}
